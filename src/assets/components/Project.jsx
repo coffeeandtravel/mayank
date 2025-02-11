@@ -1,6 +1,6 @@
-import Weather from '../../assets/Weather.png'
-import Bookstore from '../../assets/BookStore.png'
-import Portfolio from '../../assets/Portfolio.png'
+import Weather from '../../assets/Weather.jpg'
+import Bookstore from '../../assets/BookStore.jpg'
+import Portfolio from '../../assets/Portfolio.jpg'
 
 const Project = () => {
   return (
