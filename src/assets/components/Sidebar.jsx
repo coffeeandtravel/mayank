@@ -23,20 +23,35 @@ const Sidebar = () => {
 
       {/* Social Links */}
       <div className="mt-30 lg:mt-auto flex flex-row justify-center gap-5 items-center">
-        <a href="http://github.com/coffeeandtravel" className="color">
+        <a
+          href="http://github.com/coffeeandtravel"
+          className="color"
+          aria-label="GitHub Profile"
+        >
           <FaGithub className="text-4xl" />
         </a>
-        <a href="https://unsplash.com/@mayaaank_g" className="color">
+        <a
+          href="https://unsplash.com/@mayaaank_g"
+          className="color"
+          aria-label="Unsplash Profile"
+        >
           <FaUnsplash className="text-4xl" />
         </a>
-        <a href="http://instagram.com/mayaaank.g" className="color">
+        <a
+          href="http://instagram.com/mayaaank.g"
+          className="color"
+          aria-label="Instagram Profile"
+        >
           <FaInstagram className="text-4xl" />
         </a>
-        <a href="https://www.linkedin.com/in/mayank-gaur-171664119/" className="color">
+        <a
+          href="https://www.linkedin.com/in/mayank-gaur-171664119/"
+          className="color"
+          aria-label="LinkedIn Profile"
+        >
           <FaLinkedin className="text-4xl" />
         </a>
       </div>
-      
     </div>
   );
 };
