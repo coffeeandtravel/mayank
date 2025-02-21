@@ -48,7 +48,7 @@ const Experience = () => {
     <div className="mt-12">
     <a
       className="inline-flex items-baseline leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base"
-      href="https://drive.google.com/file/d/1OG1Bv93_DHE2WhQQPI54M4psQ7kLfHJO/view?usp=sharing"
+      href="https://drive.google.com/file/d/13Y9BoKM-bRrgOcmNwnb5bwPORoEl5yeX/view?usp=sharing"
       target="_blank"
       rel="noreferrer noopener"
       aria-label="View Full Résumé (opens in a new tab)"
