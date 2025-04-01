@@ -20,7 +20,7 @@ const Projects = () => {
           {/* GitHub Project Archive Link */}
           <div className="mt-12">
             <a
-              className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold group"
+              className="inline-flex items-center font-medium leading-tight text-slate-200 group"
               aria-label="View Full Project Archive"
               href="https://github.com/coffeeandtravel?tab=repositories"
               target="_github"
