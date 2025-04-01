@@ -40,4 +40,5 @@ body {
 }
 .color :hover{
     color:rgb(211, 211, 211);
+    transition: all 0.5s ease-in-out;
 }
